@@ -8,4 +8,4 @@ export const themes = {
   },
   };
 
-export default themes;
+export cutte themes;

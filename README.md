@@ -20,6 +20,7 @@
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=hanntterene&show_icons=true&theme=tokyonight&title_color=ffb3ec&icon_color=ff9de6&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&locale=pt-br" 
   />
+  
   <img 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanntterene&layout=compact&theme=tokyonight&title_color=ffb3ec&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&langs_count=8&custom_title=Linguagens Favoritas" 

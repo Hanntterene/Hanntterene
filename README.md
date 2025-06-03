@@ -86,7 +86,7 @@ Me chamo Lohanna (Hanna), tenho 20 anos e estudo Engenharia da Computação na U
     height="200" 
     style="padding-right: 10px;" 
     title_color = "ffffff"
-    src="https://github-readme-stats.vercel.app/api?username=hanntterene&show_icons=true&theme=cutte&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=hanntterene&show_icons=true&theme=catppuccin_latte&include_all_commits=true&locale=pt-br" 
   />
 
 <img 

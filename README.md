@@ -29,7 +29,6 @@
 
 <p align="center"> <a href="https://www.instagram.com/hanntterene/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-ff9de6?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/lohanna-monteiro-8a8a051b4/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-e0b3ff?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
----
 <p align="center" >
   <img height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fofo GIF"/>
 </p>

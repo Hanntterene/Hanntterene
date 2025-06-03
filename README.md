@@ -1,101 +1,40 @@
-<p >
-
-  <img 
-  align="center"
-height="250" 
-  src="assets\Titulo.gif" alt="descrição" />
+<p align="center">
+  <img height="100"  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9DE6&center=true&vCenter=true&width=435&lines=✨+Oi%2C+eu+sou+Hanna+✨" alt="Typing SVG" />
+</p>
+<p align="center">
+  🌷 Tenho 20 anos e sou estudante de Engenharia da Computação na UTFPR – Apucarana. <br>
+  🎨 Apaixonada por front-end, design e qualquer coisa que envolva <strong>código com estética</strong>. <br>
+  💜 Amo transformar ideias em experiências bonitas, funcionais e com um toque de personalidade. <br>
+  🌍 Sonho em trabalhar de qualquer lugar do mundo, criar projetos com alma e <strong>viver daquilo que me empolga</strong>.
 </p>
 
-Me chamo Lohanna (Hanna), tenho 20 anos e estudo Engenharia da Computação na UTFPR - Apucarana. Sou apaixonada por tecnologia, com foco em front-end e design. Curto transformar ideias em soluções criativas e funcionais, de preferência com impacto real. Faço parte da Therion, a empresa júnior da UTFPR, onde aprendo na prática sobre trabalho em equipe, inovação e propósito. Sonho em empreender, trabalhar de qualquer lugar do mundo e usar a tecnologia como ponte pra conectar, criar e transformar.
+# - 🎀 Linguagens e Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,python,c,cpp,figma,canva&theme=light&perline=9" />
+</p>
+
+# - 📊 Minhas estatísticas (sem filtro 😅)
+<p align="center">
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=hanntterene&show_icons=true&theme=tokyonight&title_color=ffb3ec&icon_color=ff9de6&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&locale=pt-br" 
+  />
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanntterene&layout=compact&theme=tokyonight&title_color=ffb3ec&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&langs_count=8&custom_title=Linguagens Favoritas" 
+  />
+</p>
+
+# -  📬 Onde me encontrar
+
+<p align="center"> <a href="https://www.instagram.com/hanntterene/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-ff9de6?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/lohanna-monteiro-8a8a051b4/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-e0b3ff?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Canva" 
-    title="Canva"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
-/>
-          
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hanntterene&show_icons=true&theme=jolly&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanntterene&theme=jolly&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center" >
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fofo GIF"/>
 </p>
+
+<p align="center" style="color:#ff9de6; font-size:18px; font-weight:bold;">
+  Obrigada por visitar meu perfil!💜
+</p>
+

@@ -1,6 +1,10 @@
-# 👩🏻‍💻 Hanna Monteiro ✨
+<p >
 
-**`Estudante - Engenharia da Computação`**
+  <img 
+  align="center"
+height="250" 
+  src="assets\Titulo.gif" alt="descrição" />
+</p>
 
 Me chamo Lohanna (Hanna), tenho 20 anos e estudo Engenharia da Computação na UTFPR - Apucarana. Sou apaixonada por tecnologia, com foco em front-end e design. Curto transformar ideias em soluções criativas e funcionais, de preferência com impacto real. Faço parte da Therion, a empresa júnior da UTFPR, onde aprendo na prática sobre trabalho em equipe, inovação e propósito. Sonho em empreender, trabalhar de qualquer lugar do mundo e usar a tecnologia como ponte pra conectar, criar e transformar.
 

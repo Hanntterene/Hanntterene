@@ -41,6 +41,6 @@
   <img height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fofo GIF"/>
 </p>
 
-<p align="center" style="color:#ff9de6; font-size:18px; font-weight:bold;">
+<p align="center">
   Obrigada por visitar meu perfil!💜
 </p>

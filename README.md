@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,js,python,c,cpp,figma,canva&theme=light&perline=9" />
 </p>
 
-# - 📊 Minhas estatísticas (sem filtro 😅)
+# - 📊 Minhas estatísticas 
 <p align="center">
   <img 
     height="200" 

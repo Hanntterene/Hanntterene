@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🌷 Tenho 20 anos e sou estudante de Engenharia da Computação na UTFPR – Apucarana. <br>
+  🌷 Tenho 21 anos e sou estudante de Engenharia da Computação na UTFPR – Apucarana. <br>
   🎨 Apaixonada por front-end, design e qualquer coisa que envolva <strong>código com estética</strong>. <br>
   💜 Amo transformar ideias em experiências bonitas, funcionais e com um toque de personalidade. <br>
   🌍 Sonho em trabalhar de qualquer lugar do mundo, criar projetos com alma e <strong>viver daquilo que me empolga</strong>.

@@ -1,5 +1,5 @@
-![alt text](./images/Hanna.svg)
-
+<img src="./images/Hanna.svg" align="center" height="400
+">
 # - ☁️ Sobre mim:
 <img src="./images/Cat.svg" align="right" height="400
 ">

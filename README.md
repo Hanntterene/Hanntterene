@@ -1,5 +1,5 @@
-<img src="./images/Hanna.svg" align="center" height="300
-">
+![alt text](./images/Hanna.svg)
+
 # - ☁️ Sobre mim:
 <img src="./images/Cat.svg" align="right" height="400
 ">
@@ -16,7 +16,7 @@
 🌐 Acredito na força da <strong>colaboração</strong>, da <strong>comunicação clara</strong> e em projetos que realmente importam — especialmente os que <strong>abrem espaço pra mais mulheres na tecnologia</strong>. Por isso, faço parte do projeto <strong>Codificadoras</strong>, que promove ações para incentivar a participação feminina na área tech com muita representatividade e impacto. 💜
 </p>
 
-<P align= "right">
+<P align= "rigth">
 🎯 Também atuo na <strong>Therion</strong>, a empresa júnior de Engenharia da Computação da UTFPR. Lá, integro o time de <strong>marketing</strong>, levando nossa essência <strong>"rosa choque por resultados"</strong> pra dentro e fora da universidade — unindo criatividade, tecnologia e impacto social. 🩷
 <P align= "center">
 🚀 No fim das contas, quero usar o que sei (e o que ainda vou aprender) pra <strong>criar, inovar e transformar realidades</strong> através da tecnologia.

@@ -1,4 +1,4 @@
-<img src="./images/Hanna.svg" align="center" height="200
+<img src="./images/Hanna.svg" align="center" height="300
 ">
 # - ☁️ Sobre mim:
 <img src="./images/Cat.svg" align="right" height="400

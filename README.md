@@ -31,7 +31,7 @@
 
 <p align="center">🎮 Sou fã de jogos com boas histórias. <strong>The Witcher</strong> tá no topo da minha lista.</p>
 
-<p align="center">📝 Escrever me acalma. Tenho ideias de livros, contos e quem sabe até um jogo autoral.</p>
+<p align="center">📝 Escrever me acalma. Tenho ideias de livros, contos mas dificilmente espalho pros outros.</p>
 
 <p align="center">🍳 Cozinhar é um hobby caótico: ou fica incrível, ou nem eu como depois.</p>
 

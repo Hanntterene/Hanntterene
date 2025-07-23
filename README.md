@@ -30,31 +30,20 @@
 <p align = "center"> ────────────୨ৎ────────────
 <details>
 <summary title="Clique pra abrir!"><em> 𐔌՞. .՞𐦯 (mais) Alguns fatos divertidos sobre mim ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ ⋆. 𐙚 ˚ </em></summary>
-<p align="center">🌍 Sonho em trabalhar de qualquer lugar do mundo, criar projetos com alma e <strong>viver daquilo que me empolga</strong>.</p>
+<p align="center">📖 Meu livro favorito é <strong>Spice and Wolf</strong> — sim, o romance entre uma loba e um mercador é tudo pra mim.</p>
 
-<p align="center">🍕 Sou a amiga que sabe cozinhar e, apesar de todo mundo gostar, eu normalmente não gosto da minha comida.</p>
+<p align="center">🎮 Sou fã de jogos com boas histórias. <strong>The Witcher</strong> tá no topo da minha lista.</p>
 
-<p align="center">🦎 Quando criança, tentei domesticar uma lagartixa. O nome dela era Jorge.</p>
+<p align="center">📝 Escrever me acalma. Tenho ideias de livros, contos mas dificilmente espalho pros outros.</p>
 
-<p align="center">🎮 Tenho uma paixão absurda por jogos com narrativa densa, e meu jogo favorito do momento é <strong>The Witcher</strong>.</p>
+<p align="center">🍳 Cozinhar é um hobby caótico: ou fica incrível, ou nem eu como depois.</p>
 
-<p align="center">📚 Amo histórias que misturam filosofia, sociedade e fantasia.</p>
+<p align="center">🖍️ Também gosto de desenhar e tô explorando pixel art quando sobra tempo (ou coragem).</p>
 
-<p align="center">🐺 <strong>Spice and Wolf</strong> é meu comfort anime/livro da vida. <strong>É SIM O MELHOR ROMANCE JÁ FEITO</strong>.</p>
+<p align="center">🎧 Meu gosto musical vai do <strong>punk</strong> ao <strong>indie</strong>, com uma pitada de <strong>metal</strong> e uns <strong>popzinhos viciantes</strong>.</p>
 
-<p align="center">📸 Coleciono memórias — digo, fotos. Sou apaixonada por fotografia e por registrar momentos espontâneos.</p>
+<p align="center">📸 Amo registrar momentos e guardar fotos como se fossem fragmentos de memória.</p>
 
-<p align="center">🎧 Meu gosto musical vai de <strong>punk feminista</strong> tipo Bikini Kill até <strong>indie</strong>, passando por um <strong>metal pesadão</strong> e chegando num <strong>pop bem chiclete</strong>.</p>
-
-<p align="center">🖍️ Amo desenhar e colorir. Quem sabe em breve melhoro minhas pixelarts e crio um joguinho 2D?</p>
-
-<p align="center">🧠 Meus neurônios funcionam melhor depois das 23h. Antes disso, opero em modo “carregando...”.</p>
-
-<p align="center">🕹️ Amo jogos com escolhas morais, dilemas pesados e personagens quebrados emocionalmente. Sim, estou falando de você, Geralt.</p>
-
-<p align="center">📖 Tenho planos secretos (nem tão secretos) de escrever um livro ou criar um jogo autoral um dia.</p>
-
-<p align="center">🦊 Se eu fosse um personagem de fantasia, seria algo entre uma fada caótica, uma maga rebelde e uma vendedora de poções duvidosas na taverna.</p>
 
 </p>
 

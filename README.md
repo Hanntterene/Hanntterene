@@ -16,8 +16,10 @@
 🌐 Acredito na força da <strong>colaboração</strong>, da <strong>comunicação clara</strong> e em projetos que realmente importam — especialmente os que <strong>abrem espaço pra mais mulheres na tecnologia</strong>. Por isso, faço parte do projeto <strong>Codificadoras</strong>, que promove ações para incentivar a participação feminina na área tech com muita representatividade e impacto. 💜
 </p>
 
-<P align= "rigth">
+<p align= "right">
 🎯 Também atuo na <strong>Therion</strong>, a empresa júnior de Engenharia da Computação da UTFPR. Lá, integro o time de <strong>marketing</strong>, levando nossa essência <strong>"rosa choque por resultados"</strong> pra dentro e fora da universidade — unindo criatividade, tecnologia e impacto social. 🩷
+</p>
+
 <P align= "center">
 🚀 No fim das contas, quero usar o que sei (e o que ainda vou aprender) pra <strong>criar, inovar e transformar realidades</strong> através da tecnologia.
 </p>
@@ -62,7 +64,7 @@
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=f794c6" height = "40" />
   <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f794c6" height = "40" />
-  <img src="images\c.svg" height = "40" />
+  <img src="images\C.svg" height = "40" />
   <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=f794c6" height = "40" />
 </p>
 

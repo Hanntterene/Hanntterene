@@ -24,6 +24,9 @@
 🚀 No fim das contas, quero usar o que sei (e o que ainda vou aprender) pra <strong>criar, inovar e transformar realidades</strong> através da tecnologia.
 </p>
 
+
+
+
 <p align = "center"> ────────────୨ৎ────────────
 <details>
 <summary title="Clique pra abrir!"><em> 𐔌՞. .՞𐦯 (mais) Alguns fatos divertidos sobre mim ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ ⋆. 𐙚 ˚ </em></summary>

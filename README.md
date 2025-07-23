@@ -66,7 +66,7 @@
   <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=f794c6" height = "40" />
 </p>
 
-# -  📬 Onde me encontrar
+![alt text](./images/Onde.svg)
 
 <p align="center"> 
   <a href="https://www.instagram.com/hanntterene/" target="_blank"> 
@@ -78,9 +78,11 @@
 </p>
 
 <p align="center" >
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fofo GIF"/>
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fofo GIF"/>
 </p>
 
 <p align="center">
   Obrigada por visitar meu perfil!💜
 </p>
+
+![alt text](./images/Bye.svg)

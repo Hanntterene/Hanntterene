@@ -24,12 +24,35 @@
 🚀 No fim das contas, quero usar o que sei (e o que ainda vou aprender) pra <strong>criar, inovar e transformar realidades</strong> através da tecnologia.
 </p>
 
+<p align = "center"> ────────────୨ৎ────────────
 <details>
-<summary title="Clique pra abrir!"><em>🎮 (mais) Alguns fatos divertidos sobre mim</em></summary>
+<summary title="Clique pra abrir!"><em> 𐔌՞. .՞𐦯 (mais) Alguns fatos divertidos sobre mim ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ ⋆. 𐙚 ˚ </em></summary>
+<p align="center">🌍 Sonho em trabalhar de qualquer lugar do mundo, criar projetos com alma e <strong>viver daquilo que me empolga</strong>.</p>
 
+<p align="center">🍕 Sou a amiga que sabe cozinhar e, apesar de todo mundo gostar, eu normalmente não gosto da minha comida.</p>
 
-  <p align="center">
-  🌍 Sonho em trabalhar de qualquer lugar do mundo, criar projetos com alma e <strong>viver daquilo que me empolga</strong>.
+<p align="center">🦎 Quando criança, tentei domesticar uma lagartixa. O nome dela era Jorge.</p>
+
+<p align="center">🎮 Tenho uma paixão absurda por jogos com narrativa densa, e meu jogo favorito do momento é <strong>The Witcher</strong>.</p>
+
+<p align="center">📚 Amo histórias que misturam filosofia, sociedade e fantasia.</p>
+
+<p align="center">🐺 <strong>Spice and Wolf</strong> é meu comfort anime/livro da vida. <strong>É SIM O MELHOR ROMANCE JÁ FEITO</strong>.</p>
+
+<p align="center">📸 Coleciono memórias — digo, fotos. Sou apaixonada por fotografia e por registrar momentos espontâneos.</p>
+
+<p align="center">🎧 Meu gosto musical vai de <strong>punk feminista</strong> tipo Bikini Kill até <strong>indie</strong>, passando por um <strong>metal pesadão</strong> e chegando num <strong>pop bem chiclete</strong>.</p>
+
+<p align="center">🖍️ Amo desenhar e colorir. Quem sabe em breve melhoro minhas pixelarts e crio um joguinho 2D?</p>
+
+<p align="center">🧠 Meus neurônios funcionam melhor depois das 23h. Antes disso, opero em modo “carregando...”.</p>
+
+<p align="center">🕹️ Amo jogos com escolhas morais, dilemas pesados e personagens quebrados emocionalmente. Sim, estou falando de você, Geralt.</p>
+
+<p align="center">📖 Tenho planos secretos (nem tão secretos) de escrever um livro ou criar um jogo autoral um dia.</p>
+
+<p align="center">🦊 Se eu fosse um personagem de fantasia, seria algo entre uma fada caótica, uma maga rebelde e uma vendedora de poções duvidosas na taverna.</p>
+
 </p>
 
 </details>
@@ -48,7 +71,9 @@
   />
 </p>
 
-# - 🐼 Minhas Ferramentas
+<p align = "center"> ────────────୨ৎ────────────
+
+# - ☁️ Minhas Ferramentas e Linguagens
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=GflC6KLkdd0Y&format=png&color=f794c6" height = "35" />
   <img src="https://img.icons8.com/?size=100&id=HDd694003FZa&format=png&color=f794c6" height = "40" />
@@ -60,7 +85,6 @@
 
 </p>
 
-# - ☁️ Minhas Linguagens
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=f794c6" height = "40" />
   <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f794c6" height = "40" />
@@ -79,12 +103,17 @@
   </a> 
 </p>
 
-<p align="center" >
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fofo GIF"/>
-</p>
+<p align = "center"> ────────────୨ৎ────────────
 
+  <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fofo GIF"/>
 <p align="center">
-  Obrigada por visitar meu perfil!💜
+Obrigada por visitar meu perfil! 💜
+Fico muito feliz em compartilhar um pouquinho da minha trajetória por aqui.
+<p align="center">
+Se você curte tecnologia com propósito, design que conversa com o usuário e projetos que buscam fazer a diferença, então estamos na mesma frequência! 🌈
+Sinta-se à vontade pra explorar meus repositórios, trocar uma ideia ou me chamar pra colaborar em algo incrível. ✨
+<p align="center">
+<strong>Vamos construir coisas legais juntas(os)?</strong> 🚀
 </p>
 
 ![alt text](./images/Bye.svg)

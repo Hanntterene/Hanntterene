@@ -1,4 +1,4 @@
-![alt text](./images/Hanna(1).svg)
+![alt text](./images/Hanna.svg)
 
 # - ☁️ Sobre mim:
 <img src="./images/Cat.svg" align="right" height="400

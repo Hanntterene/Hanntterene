@@ -51,7 +51,7 @@
 
 <p></p>
 
-![alt text](./images/Estatisticas.svg)
+![alt text](./images/Estatistics.svg)
 <p align="center">
   <img 
     height="200" 

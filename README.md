@@ -1,6 +1,6 @@
 ![alt text](./images/Hanna.svg)
 
-# - 🎀 Sobre mim:
+# - 🎀 Sobre:
 <img src="./images/Cat.svg" align="right" height="400
 ">
 

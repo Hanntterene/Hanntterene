@@ -41,12 +41,12 @@
 <br clear="right"/>
 
 
-<p align = "center"> ────────────୨ৎ────────────
-
-  <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Fofo GIF"/>
-<p align="center">
-  <detais>
-  # - 🎀 Sobre:
-    
-  </detais>
+<p align = "center"> 
+  ────────────୨ৎ──────────── 
+<details align = "center">
+<summary title="Clique pra abrir!"><em> 𐔌՞. .՞𐦯 Sobre  ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ ⋆. 𐙚 ˚ </em></summary>
+<p align="center"> Estudante de Engenharia da Computação (UTFPR, 5º) • Dev em formação (Python, C/C++, MySQL, HTML/CSS) • Foco em UX/UI & HCI • Diretora de Marketing na Therion EJ — aberta a colaborações e oportunidades de estágio.
+ 
 </p>
+
+</details>

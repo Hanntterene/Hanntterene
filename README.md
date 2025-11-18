@@ -1,9 +1,15 @@
-![alt text](./images/Hanna.svg)
+<p align="center">
+  <img 
+    height="142" 
+    src="https://github-readme-stats.vercel.app/api?username=hanntterene&show_icons=true&theme=tokyonight&title_color=ffb3ec&icon_color=ff9de6&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&locale=pt-br" 
+  />
+  <img 
+    height="5000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanntterene&layout=compact&theme=tokyonight&title_color=ffb3ec&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&langs_count=8&custom_title=Linguagens%20Favoritas" 
+  />
+</p>
 
 # - 🎀 Sobre:
-<img src="./images/Cat.svg" align="right" height="400
-">
-
 <P align= "right">
 🎓 Tenho 21 anos e sou estudante de <strong>Engenharia da Computação na UTFPR – Apucarana</strong>. Sou apaixonada por <strong>desenvolvimento front-end</strong>, interfaces bonitas e tudo que envolve <strong>design com propósito</strong>.
 </p>
@@ -28,28 +34,7 @@
 
 
 <p align = "center"> ────────────୨ৎ────────────
-<details>
-<summary title="Clique pra abrir!"><em> 𐔌՞. .՞𐦯 (mais) Alguns fatos divertidos sobre mim ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ ⋆. 𐙚 ˚ </em></summary>
-<p align="center">📖 Meu livro favorito é <strong>Spice and Wolf</strong> — sim, o romance entre uma loba e um mercador é tudo pra mim.</p>
-
-<p align="center">🎮 Sou fã de jogos com boas histórias. <strong>The Witcher</strong> tá no topo da minha lista.</p>
-
-<p align="center">📝 Escrever me acalma. Tenho ideias de livros, contos mas dificilmente espalho pros outros.</p>
-
-<p align="center">🍳 Cozinhar é um hobby caótico: ou fica incrível, ou nem eu como depois.</p>
-
-<p align="center">🖍️ Também gosto de desenhar e tô explorando pixel art quando sobra tempo (ou coragem).</p>
-
-<p align="center">🎧 Meu gosto musical vai do <strong>punk</strong> ao <strong>indie</strong>, com uma pitada de <strong>metal</strong> e uns <strong>popzinhos viciantes</strong>.</p>
-
-<p align="center">📸 Amo registrar momentos e guardar fotos como se fossem fragmentos de memória.</p>
-
-
 </p>
-
-</details>
-
-<p></p>
 
 ![alt text](./images/Estatisticas.svg)
 <p align="center">

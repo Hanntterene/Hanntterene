@@ -8,11 +8,12 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanntterene&layout=donut&theme=tokyonight&title_color=ffb3ec&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&langs_count=8&custom_title=Linguagens%20Favoritas" 
   />
 </p>
+<p align="center">
 <img align="left"
   height="200" 
   src="./images/garota_comp.jpg"
 />
-
+</p>
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=GflC6KLkdd0Y&format=png&color=f794c6" height="60" />
   <img src="https://img.icons8.com/?size=100&id=047WZAFDnkVp&format=png&color=f794c6" height="70" />

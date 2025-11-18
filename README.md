@@ -8,7 +8,13 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanntterene&layout=donut&theme=tokyonight&title_color=ffb3ec&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&langs_count=8&custom_title=Linguagens%20Favoritas" 
   />
 </p>
-<p align="center">
+<p>
+  <img 
+    height="100" 
+    src=""
+  />
+  
+<p align="rigth">
   <img src="https://img.icons8.com/?size=100&id=GflC6KLkdd0Y&format=png&color=f794c6" height = "35" />
   <img src="https://img.icons8.com/?size=100&id=HDd694003FZa&format=png&color=f794c6" height = "40" />
   <img src="https://img.icons8.com/?size=100&id=MSSIu6fxvJKT&format=png&color=f794c6" height = "40" />
@@ -19,13 +25,13 @@
 
 </p>
 
-<p align="center">
+<p align="rigth">
   <img src="https://img.icons8.com/?size=100&id=12584&format=png&color=f794c6" height = "40" />
   <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f794c6" height = "40" />
   <img src="images\C.svg" height = "40" />
   <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=f794c6" height = "40" />
 </p>
-
+</p>
 
 ![alt text](./images/Estatisticas.svg)
 <p align="center">

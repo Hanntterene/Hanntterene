@@ -12,7 +12,7 @@
 <center>
   <img align="right"
   height="200" 
-  src="./images/garota_comp.jpg"
+  src="./images/imagem_2025-12-30_105719296.png"
 />
     <p align = "right">
       <img src="https://img.icons8.com/?size=100&id=GflC6KLkdd0Y&format=png&color=f794c6" height="60" />

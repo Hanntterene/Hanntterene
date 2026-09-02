@@ -1,11 +1,11 @@
 <p align="center" >
   <img 
     height="315" 
-    src="https://github-readme-stats.vercel.app/api?username=hanntterene&show_icons=true&theme=tokyonight&title_color=ffb3ec&icon_color=ff9de6&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&locale=pt-br" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hanntterene&show_icons=true&theme=tokyonight&title_color=ffb3ec&icon_color=ff9de6&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&locale=pt-br" 
   />
   <img 
     height="195" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanntterene&layout=donut&theme=tokyonight&title_color=ffb3ec&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&langs_count=8&custom_title=Linguagens%20Favoritas" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hanntterene&layout=donut&theme=tokyonight&title_color=ffb3ec&text_color=fad6ff&bg_color=00000000&border_color=ffb3ec&langs_count=8&custom_title=Linguagens%20Favoritas" 
   />
 
 

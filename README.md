@@ -37,7 +37,7 @@
   ────────────୨ৎ──────────── 
 <details align = "center">
 <summary title="Clique pra abrir!"><em> 𐔌՞. .՞𐦯 Sobre  ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ ⋆. 𐙚 ˚ </em></summary>
-<p align="center"> Estudante de Engenharia da Computação (UTFPR, 5º) • Dev em formação (Python, C/C++, MySQL, HTML/CSS) • Foco em UX/UI & HCI • Diretora de Marketing na Therion EJ — aberta a colaborações e oportunidades de estágio.
+<p align="center"> Estudante de Engenharia da Computação (UTFPR, 5º) • Dev em formação (Python, C/C++, MySQL, HTML/CSS) • Foco em UX/UI & HCI • Diretora de Marketing e vice presidente da Therion EJ — aberta a colaborações e oportunidades de estágio.
  
 </p>
 
